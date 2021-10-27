@@ -8,6 +8,8 @@ Python
 C#
 Unity
 Unreal
+Visual Studio
+Visual Studio Code
 
 <!---
 MyNameIsJefftor/MyNameIsJefftor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
