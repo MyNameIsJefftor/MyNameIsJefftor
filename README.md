@@ -1,6 +1,6 @@
 Hello My name is Kurtis McCammon, but I go by MyNameIsJefftor on most platforms.
 
-I am a wanna be Game Developer.
+I am a Game Developer.
 
 Languages/Tool I actively use:
 C++
